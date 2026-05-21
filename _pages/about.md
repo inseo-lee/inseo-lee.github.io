@@ -2,33 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student, Data Science · <a href="https://viplab.snu.ac.kr/">VIP Lab</a>, Seoul National University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Graduate School of Data Science</p>
+    <p>Seoul National University</p>
+    <p>Seoul, Republic of Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false # hide news section on about page
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false # hide latest blog posts on about page
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in Data Science at **Seoul National University**, working in the [VIP Lab](https://viplab.snu.ac.kr/). My research centers on **3D computer vision** — in particular, **Gaussian Splatting** and the **reconstruction of articulated objects** from real-world observations. I completed my MS in the same lab, where I first began working on these problems and developed the questions that still drive my research today.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before SNU, I studied at **Hanyang University** as a dual major in *Sports Science* and *Computer Science*. That mix — somewhere between the mechanics of human motion and the abstractions of code — continues to shape how I think about geometry, articulation, and what makes a 3D representation feel right. Feel free to reach out by [email](mailto:ian.lee@snu.ac.kr) if any of this overlaps with what you are working on.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Currently under submission:** *ArtSplat* — extending Gaussian Splatting toward articulated object reconstruction. More details once review concludes.
