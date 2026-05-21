@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: blank # sentinel — when set to the literal string "blank", the theme uses first_name/middle_name/last_name as the brand. See _includes/header.liquid and _layouts/about.liquid.
 first_name: Inseo
 middle_name:
 last_name: Lee
