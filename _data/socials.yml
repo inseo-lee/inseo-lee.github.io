@@ -1,7 +1,7 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: # path to your CV PDF file (e.g., /assets/pdf/cv.pdf) — add when you have one
+# cv_pdf: /assets/pdf/cv.pdf  # uncomment and set when a CV PDF is added — jekyll-socials crashes on an empty value
 email: ian.lee@snu.ac.kr
 github_username: inseo-lee
 scholar_userid: VRguCNsAAAAJ # Google Scholar ID
