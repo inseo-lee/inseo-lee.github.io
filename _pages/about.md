@@ -30,5 +30,3 @@ latest_posts:
 I am a PhD student in Data Science at **Seoul National University**, working in the [VIP Lab](https://viplab.snu.ac.kr/). My research centers on **3D computer vision** — in particular, **Gaussian Splatting** and the **reconstruction of articulated objects** from real-world observations. I completed my MS in the same lab, where I first began working on these problems and developed the questions that still drive my research today.
 
 Before SNU, I studied at **Hanyang University** as a dual major in *Sports Science* and *Computer Science*. That mix — somewhere between the mechanics of human motion and the abstractions of code — continues to shape how I think about geometry, articulation, and what makes a 3D representation feel right. Feel free to reach out by [email](mailto:ian.lee@snu.ac.kr) if any of this overlaps with what you are working on.
-
-**Currently under submission:** *ArtSplat* — extending Gaussian Splatting toward articulated object reconstruction. More details once review concludes.
