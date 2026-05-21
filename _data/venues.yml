@@ -5,3 +5,6 @@
 "NeurIPS":
   url: https://neurips.cc/
   color: "#6f00d2"
+
+"Preprint":
+  color: "#828282"

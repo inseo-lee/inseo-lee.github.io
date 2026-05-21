@@ -1,6 +1,17 @@
 ---
 ---
 
+@unpublished{lee2026artsplat,
+  abbr        = {Preprint},
+  bibtex_show = {true},
+  selected    = {true},
+  title       = {{ArtSplat}: Feed-Forward Articulated {3D} {G}aussian {S}platting from Sparse Multi-State Uncalibrated Views},
+  author      = {Lee, Inseo and Kim, Yoonji and Sohn, Eugene and Lee, Jiwoong and You, Jungmin and Lee, Joonseok and Kim, Jin-Hwa},
+  year        = {2026},
+  abstract    = {Articulated object reconstruction from sparse-view images is an ill-posed problem that requires simultaneous inference of geometry and underlying articulation structure. Existing methods based on NeRF and 3D Gaussian Splatting (3DGS) typically rely on dense views or strong priors (e.g., depth maps, joint types, a predefined number of joints) and require costly per-object optimization. We propose ArtSplat, the first feed-forward framework for articulated 3D Gaussian Splatting, which reconstructs both geometry and joint parameters from sparse multi-view images across multiple articulation states in a single forward pass. To this end we introduce a per-pixel joint map representation that integrates joint parameter estimation into the feed-forward pipeline, and a Cross-State Attention (CSA) mechanism with state tokens that captures discrete motion across input states. Experiments on 68 articulated objects from PartNet-Mobility, covering both single- and multi-joint configurations, demonstrate competitive geometry and joint-estimation performance while running over 400x faster than baselines.},
+  preview     = {artsplat.png}
+}
+
 @inproceedings{lee2025gaussianvideo,
   abbr        = {CVPRW},
   bibtex_show = {true},

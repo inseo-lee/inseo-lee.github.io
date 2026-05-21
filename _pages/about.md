@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, Data Science · <a href="https://viplab.snu.ac.kr/">VIP Lab</a>, Seoul National University
+subtitle: PhD Student · <a href="https://viplab.snu.ac.kr/">VIP Lab</a>, Seoul National University
 
 profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Graduate School of Data Science</p>
+    <p>VIP Lab</p>
     <p>Seoul National University</p>
     <p>Seoul, Republic of Korea</p>
 
@@ -27,6 +27,6 @@ latest_posts:
   limit: 3
 ---
 
-I am a PhD student in Data Science at **Seoul National University**, working in the [VIP Lab](https://viplab.snu.ac.kr/). My research centers on **3D computer vision** — in particular, **Gaussian Splatting** and the **reconstruction of articulated objects** from real-world observations. I completed my MS in the same lab, where I first began working on these problems and developed the questions that still drive my research today.
+I am a PhD student at **Seoul National University**, working in the [VIP Lab](https://viplab.snu.ac.kr/) under the supervision of [Prof. Joonseok Lee](http://www.joonseok.net/home.html).
 
-Before SNU, I studied at **Hanyang University** as a dual major in *Sports Science* and *Computer Science*. That mix — somewhere between the mechanics of human motion and the abstractions of code — continues to shape how I think about geometry, articulation, and what makes a 3D representation feel right. Feel free to reach out by [email](mailto:ian.lee@snu.ac.kr) if any of this overlaps with what you are working on.
+My research focuses on **3D computer vision**, particularly **Gaussian Splatting** and modeling **motion in Gaussians** (e.g., articulated objects). Currently, I am interested in injecting **3D knowledge into Vision-Language-Action (VLA) models**.
