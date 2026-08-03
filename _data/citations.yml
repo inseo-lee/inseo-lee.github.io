@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-08-03'
 papers:
   VRguCNsAAAAJ:d1gkVwhDpl0C:
     citations: 0
@@ -7,9 +7,9 @@ papers:
     year: '2026'
   VRguCNsAAAAJ:u-x6o8ySG0sC:
     citations: 7
-    title: 'GaussianVideo: Efficient video representation and compression by Gaussian splatting'
+    title: 'Gaussianvideo: Efficient video representation and compression by gaussian splatting'
     year: '2025'
   VRguCNsAAAAJ:u5HHmVD_uO8C:
-    citations: 17
+    citations: 16
     title: Self-guided masked autoencoder
     year: '2024'
